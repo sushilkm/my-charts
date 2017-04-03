@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v1
+    created: 2017-04-03T15:15:30.498758399-07:00
+    description: A Helm chart for Kubernetes
+    digest: 79ff6ade5cb3618a6f2a81d2259e9cee35ce9ea37c2205464a51d70ab5348394
+    name: mychart
+    urls:
+    - https://sushilkm.github.io/my-charts/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-04-03T15:15:30.498395755-07:00
