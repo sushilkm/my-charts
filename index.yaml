@@ -2,11 +2,30 @@ apiVersion: v1
 entries:
   mychart:
   - apiVersion: v1
-    created: 2017-04-03T15:15:30.498758399-07:00
+    created: 2017-04-06T14:53:46.430187823-07:00
     description: A Helm chart for Kubernetes
     digest: 79ff6ade5cb3618a6f2a81d2259e9cee35ce9ea37c2205464a51d70ab5348394
     name: mychart
     urls:
-    - https://sushilkm.github.io/my-charts/mychart-0.1.0.tgz
+    - https://sushilkm.github.com/my-charts/mychart-0.1.0.tgz
     version: 0.1.0
-generated: 2017-04-03T15:15:30.498395755-07:00
+  vertica:
+  - apiVersion: v1
+    created: 2017-04-06T14:53:46.430859984-07:00
+    description: Helm chart for HP-Vertica database.
+    digest: 4e5eb3ccf72c5ab5dcb1543c79ede42b9d50281ab80b01abeba6e0069659b0e8
+    home: https://www.vertica.com/
+    icon: https://www.vertica.com/wp-content/uploads/2017/01/vertica_wht_rgb@2x.png
+    keywords:
+    - analytics
+    - database
+    - sql
+    - columnar
+    maintainers:
+    - email: skm.net@gmail.com
+      name: Sushil Kumar
+    name: vertica
+    urls:
+    - https://sushilkm.github.com/my-charts/vertica-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-04-06T14:53:46.429028623-07:00
